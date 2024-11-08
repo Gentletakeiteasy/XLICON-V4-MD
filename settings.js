@@ -54,9 +54,9 @@ global.wm = "Xlicon Bot Inc."
 global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
 global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
 global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
-global.creator = "923184070915@s.whatsapp.net"
+global.creator = "2348020674070@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["923184070915"] // Premium User
+global.premium = ["2348020674070"] // Premium User
 
 //bot sett
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
